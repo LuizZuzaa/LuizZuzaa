@@ -1,5 +1,5 @@
 ## Welcome to my GitHub 😺
-### My name is _Luiz Fernando_
+### My name is _Luiz Fernando_, study Information Systems at Universidade de Franca.
 
 - 🌱 I’m currently learning: **MySQL**, **Java**, **Python**, **HTML**, **CSS**.
 - 📫 Contact me [luizzuza2904@gmail.com]()
