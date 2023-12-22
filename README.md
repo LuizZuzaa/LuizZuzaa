@@ -13,11 +13,5 @@
     <a href ="https://www.linkedin.com/in/luiz-fernando-rodrigues-40453518a/" target="_blank">
      <img height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </div>
-
-- uses: Platane/snk@v3
-  id: snake-gif
-  with:
-    github_user_name: LuizZuzaa
-    git_out_path: dist/github-contribution-grid-snake.gif
-    git_out_path: dist/github-contribution-grid-snake.svg
-- run: git status
+      
+![snake gif](https://github.com/LuizZuzaa/LuizZuzaa/blob/output/github-contribution-grid-snake.svg)
